@@ -1947,3 +1947,916 @@ Keep in mind that everything is written from a particular social, cultural, and 
 ---
 
 Identify a piece of writing or news that you just read. It can be anything; a newspaper article, an editorial piece or something your uncle forwarded to you on WhatsApp. Use the ==CRAP or SIFT== methods to evaluate the sources used in that piece of writing to determine whether they are legitimate or not. Share what you found, along with the context of the article, with your peers on eHub. Also, read through your peers’ responses to get a better understanding of the different forms of sources and their evaluation.
+
+
+
+# Ethical Use of AI Tools for Web Research
+
+  
+**Let’s now dive into a fascinating and ever-evolving topic on ethics in the use of AI tools like ChatGPT and Gemini for conducting web research.**
+
+We now live in the AI age and as powerful as such tools are and are going to get, it’s important to understand the ethical considerations surrounding their use, especially in learning institutions.
+
+Quick question for you:  
+
+Why do you think the Ethical use of AI tools in web research is a thorny topic?
+
+There are definitely a lot of answers to this question, but the main reasons for the complexities around the ethical use of AI tools in web research are due to concerns related to privacy, data bias, transparency, accountability, misinformation, and regulatory challenges. This necessitates a collaborative effort to establish ethical standards, ensure transparency, and prioritize data protection and user rights.
+
+**Some standards and considerations you can take when using AI tools in your work include:**
+
+- ==Full disclosure:== Always disclose when your work is AI-assisted by properly citing your sources. Passing off AI-generated work purely as your own is something we advise against.
+- ==Transparency:== Your users will want to know that the data you are collecting from them will at some point pass through AI tools, which is something not every user is comfortable with!
+- ==Responsibility:== Always use AI tools in a moral, ethical, and responsible manner.
+
+**There are also some guiding principles to take into account when using AI tools for web research:**
+
+- Use AI tools to supplement, not replace, human judgment. AI tools can be valuable for research, but they should not be used as a substitute for human judgment. It is important to carefully evaluate the results of AI tools and to use your critical thinking skills to make decisions.
+- Be aware of the potential biases of AI tools. AI tools are trained on data that is collected from the real world, and this data can be biased. It is important to be aware of the potential biases of AI tools and to take steps to mitigate them.
+- Use AI tools in a way that respects the privacy of others. AI tools can collect a large amount of data about users, and it is important to use this data in a way that respects the privacy of others. This means obtaining informed consent from users before collecting their data and using it only for the purposes that were disclosed to them.
+
+---
+
+What are other implications that can arise when we do not disclose the use of AI tools in our work? Discuss this question with your squad on eHub. Alternatively, ask Chat GPT or any AI tool of your choice and observe what responses it gives! Exciting times!
+
+# AI Use for Research
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T105554Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6fb244233c032669e64437b163fe617785fb473a797cce4c52153821ce5c1184)
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/a6f8219ae9a7fcff42a54aa4e52abaeb00754ab3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T105554Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0635302e480b8bf05f6ab162fd274a34f5565f28c3cb6888270cd124c75e2a7b)
+
+**So now that you understand the ethics of AI-based research, and know what to look out for, let’s see how best to leverage these technologies to your advantage.**
+
+As a principle, you should know that AI assistants like **[ChatGPT](https://openai.com/gpt-4)**, **[Gemini](https://bard.google.com/chat)**, and **[BingAI](https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1)** are very powerful, but they cannot do the research for you. They are “assistants” that can help you through the process, but you have to take the lead and make the decisions regarding what is and what is not important.
+
+==Looking for the right information==
+
+Let’s say you’re starting your research and want to know which articles and research papers to read. BingAI has you covered! You can use other assistants like Google’s Gemini to do the same. Just know that some of these language models aren’t connected to the internet and might not be able to provide up-to-date information.
+
+When you’ve found the perfect article or paper that you want to read and analyze as part of your research, you can use AI tools to scan through articles and papers, and provide summaries or pull specific information that you need.
+
+We encourage you to explore. Remember, to use AI ethically and responsibly. There are no shortcuts to life, and AI isn’t here to do your work for you. It’s just here to assist.
+
+---
+
+How do you ensure that you use AI ethically for your work? Similarly, how do you ensure its accuracy? Make a list of things you do to ensure this and share it with your squad on eHub. See what your peers are sharing to learn from their experience as well!
+
+# [Optional] Research: Additional Resources
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T105626Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fc5a8489e800d55c9a47494dd4bea79344ddf6ac048aaeafae2e6989929692ba)
+
+  
+
+This section is not a required part of the course.
+
+If you are a curious soul and would love to learn more about conducting research, we are happy to share a few resources that you can take a look at.
+
+##### ****[Research Overview](https://www.google.com/url?q=https://owl.purdue.edu/owl/research_and_citation/conducting_research/research_overview/index.html&sa=D&source=editors&ust=1681148947773058&usg=AOvVaw3Ini8S-lNQvDl8m4BNSOzy)****
+
+We live in an age overflowing with sources of information. With so many information sources at our fingertips, knowing where to start, sorting through it all, and finding what we want can be overwhelming! This handout provides answers to the following research-related questions: Where do I begin? Where should I look for information? What types of sources are available?
+
+##### ****[Conducting Primary Research](https://www.google.com/url?q=https://owl.purdue.edu/owl/research_and_citation/conducting_research/conducting_primary_research/index.html&sa=D&source=editors&ust=1681148947773818&usg=AOvVaw1Iy6KaQrl4vYND6zZ_lBqp)****
+
+Primary research involves collecting data about a given subject directly from the real world. This section includes information on what primary research is, how to get started, the ethics involved with primary research, and the different types of research you can do. It includes details about interviews, surveys, observations, and analysis.
+
+##### ****[Evaluating Sources of Information](https://www.google.com/url?q=https://owl.purdue.edu/owl/research_and_citation/conducting_research/evaluating_sources_of_information/index.html&sa=D&source=editors&ust=1681148947774519&usg=AOvVaw0UZjXzNsvx4M11NLaM30JJ)****
+
+Evaluating sources of information is an important step in any research activity. This section provides information on evaluating bibliographic citations, aspects of evaluation, reading evaluation, print vs. Internet sources, and evaluating Internet sources.
+
+##### ****[Searching Online](https://www.google.com/url?q=https://owl.purdue.edu/owl/research_and_citation/conducting_research/searching_online/index.html&sa=D&source=editors&ust=1681148947775112&usg=AOvVaw1mtwC4wBbKxT6LGfuJuFMg)****
+
+This section covers finding information online. It includes information about search engines, Boolean operators, Web directories, and the invisible Web. It also includes an extensive, annotated links section.
+
+##### ****[Internet References](https://www.google.com/url?q=https://owl.purdue.edu/owl/research_and_citation/conducting_research/internet_references/index.html&sa=D&source=editors&ust=1681148947775790&usg=AOvVaw3BFOFxEZ9OocMb-NcxMPqe)****
+
+This page contains links and short descriptions of writing resources including dictionaries, style manuals, grammar handbooks, and editing resources. It also contains a list of online reference sites, indexes for writers, online libraries, books and e-texts, as well as links to newspapers, news services, journals, and online magazines.
+
+##### ****[Archival Research](https://www.google.com/url?q=https://owl.purdue.edu/owl/research_and_citation/conducting_research/archival_research/index.html&sa=D&source=editors&ust=1681148947776366&usg=AOvVaw0Ts0i3LUTFKpiC2j3Kgok8)****
+
+This resource discusses conducting research in a variety of archives. It also discusses a number of considerations and best practices for conducting archival research.
+
+# Web Research Review
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T105639Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9dadedebd53142c894a50312e025df730c0467cfc540b5af51e7f274698c3587)
+
+  
+**Looking back to everything you have learned so far and the research that you just completed, let’s check a few things:**
+
+1. **Did you ask the right questions to inform your research? Why or why not?**
+    
+    Recall that we gave you a way to check whether your questions are good! You can ask yourself more questions like:
+    
+    - Does my question capture a complex issue or problem related to my chosen GCGO?
+    - Is my question nuanced, with no particular right or wrong answer or easy response?
+    - Is my question relevant to what is happening in the field? Do multiple stakeholders care about the answer to this question?
+    - Will I need to do more work to learn more about the factors affecting and influencing this question?
+2. **Did you apply the research methodology or did some of the guidelines fall away?**
+    
+    The guidelines were:
+    
+    - Define your objectives, questions, and hypotheses.
+    - Determine your end outputs.
+    - Scope your main sources of information.
+    - Begin gathering your required information.
+    - Evaluate the validity/credibility of your sources and information.
+    - Synthesize and communicate your key findings.
+    - Return to your original objectives and key questions to ensure you have answered them appropriately.
+3. **Did your approach to the research align with research best practices?**
+    
+    E.g., taking detailed notes
+    
+4. **Which research skills do you still need to build/improve further on? How can you do this?**
+5. **Did you use AI tools ethically in your web research?**
+
+Web Research Review
+
+
+
+
+Looking back to everything you have learned so far and the research that you just completed, let’s check a few things:
+
+Did you ask the right questions to inform your research? Why or why not?
+Recall that we gave you a way to check whether your questions are good! You can ask yourself more questions like:
+
+Does my question capture a complex issue or problem related to my chosen GCGO?
+Is my question nuanced, with no particular right or wrong answer or easy response?
+Is my question relevant to what is happening in the field? Do multiple stakeholders care about the answer to this question?
+Will I need to do more work to learn more about the factors affecting and influencing this question?
+Did you apply the research methodology or did some of the guidelines fall away?
+The guidelines were:
+
+Define your objectives, questions, and hypotheses.
+Determine your end outputs.
+Scope your main sources of information.
+Begin gathering your required information.
+Evaluate the validity/credibility of your sources and information.
+Synthesize and communicate your key findings.
+Return to your original objectives and key questions to ensure you have answered them appropriately.
+Did your approach to the research align with research best practices?
+E.g., taking detailed notes
+
+Which research skills do you still need to build/improve further on? How can you do this?
+Did you use AI tools ethically in your web research?
+
+# Why We Share Stories
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/040022c46d4220043ab4efc1eeda7424d0bd0c99.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111450Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=27c034e365ccf44858b6be47762859174c55a57e5b6f5d6770a785e3a0ad4c78)
+
+Storytelling is a powerful tool that plays an essential role in the workplace. Stories can help to convey complex information in a simple and relatable way, allowing stakeholders to ==better understand and connect== with new ideas and concepts. Sharing progress updates, success stories, and demonstrating growth potential can inspire and motivate.
+
+Additionally, storytelling can help to create a sense of community and foster relationships among colleagues, helping to build a ==positive and productive work environment==. By incorporating storytelling into their communication strategies, organizations can better engage employees and clients, promote collaboration and creativity, and ultimately achieve greater success.
+
+In this module, we will explore writing as a form of storytelling. In subsequent modules, we will explore other forms of telling compelling stories.
+
+---
+
+Before we start, we are curious to know. ==What is your story?== In a few sentences, share an exciting short story about yourself that you would like your peers to know, on eHub. See what everyone else is sharing too!
+# Storytelling Rubric
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111506Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9bcbcf9682ecfb547e49b0553826b84d2c724c6c20ef1e377b422954426de3df)
+
+When we listen to stories as audience members, we unknowingly respond and make judgments in our head about whether the story resonates or “clicks” with us and how the speaker does this. Below are a few of the characteristics we typically watch out for in the stories we hear and what effective storytellers can do.
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/40fa8b3bc7017e2d4417ef8d8d41e3e58458d2aa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111506Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a7cfc208cd6c3a42381db931367a622ab61af8284771d2a6d2043e31946b8eb9)
+
+Finding the right combination of the elements above in your storytelling can convert you into a powerful speaker!
+
+---
+
+Have you ever encountered a really powerful storyteller or presenter? In what ways did you see them demonstrate the above? Share their details and an example of their storytelling (if available) with your peers on eHub.
+
+
+# Storytelling Example 1
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111604Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5f65f073aeae64ef311304a4b032324b0ac95e2b5e10ff65d1fb80537dce8e99)
+
+**Now, it’s time for us to see storytelling in action. Listen to the presentations below and remember to watch out for how each speaker uses the different elements of our storytelling rubric:**
+
+- Audience Relevance
+- Language
+- Voice
+- Narratives
+- Structuring
+
+#### Video #1: Chimamanda Ngozi Adichie
+
+**The danger of a single story:** What is the power of a story, especially when only one side gets to tell it? That is what Chimamanda Ngozi Adichie, a Nigerian novelist, argues in her TED Talk. She shares that a single story about a person or place can be dangerous. She gives an example of her experience of reading books with characters that didn’t look like her and her discovery of African literature that showed her different stories. Let’s watch the video to see how she uses an amazing narrative to explain the power of storytelling.
+
+  
+
+References
+
+- [](https://www.youtube.com/watch?v=LmjKUDo7gSQ)
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/b19bb3009418b35e08d419dc8a65fd78c299c46e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111604Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c8b32d17025f9adaf8c5e57e76dbe5f3d5470f76a8de3358dc8c9bc065378ae1)
+
+[
+
+](https://savanna.alxafrica.com/concepts/107871?project_id=101755)
+
+Copyright © 2025 ALX, All rights reserved.
+
+# Storytelling Example 2
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111731Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1f9bbad13859e1c88d4458c6a1fffa3266eec48c782d6ca88894f34e96afcc60)
+
+#### Video #2: Danai Gurira
+
+Danai Gurira offers her brief but spectacular take on growing up in Zimbabwe and telling African stories on American soil. We saw this and were completely inspired by how she saw a problem with the way African women’s stories are told and did something about it.
+
+  
+
+References
+
+- PBS NewsHour. (2016, February 19). When Danai Gurira couldn’t find complex stories about African women, she wrote her own [Video file]. YouTube. [https://www.youtube.com/watch?v=rgR-R6S3qA4](https://www.youtube.com/watch?v=rgR-R6S3qA4)
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/b19bb3009418b35e08d419dc8a65fd78c299c46e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111731Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=661f1c6e94b24a9395f6a0b9807225aa7ad2b924b2597cc57ed9162cdb294969)
+
+[
+
+](https://savanna.alxafrica.com/concepts/107872?project_id=101755)
+
+Copyright © 2025 ALX, All rights reserved.
+# Storytelling Example 3
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111806Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=60001b49d7e8a354436db7dd5fb5a8eab79017cc2f5739f2db70e136810a4880)
+
+#### Video #3: Naija Woman Talk True
+
+Also, take a look at how these women use stories and their creative voices to impact their audience and share a part of their everyday lives and experiences.
+
+References
+
+- [](https://www.youtube.com/watch?v=YlGon0XLVPY)
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/b19bb3009418b35e08d419dc8a65fd78c299c46e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111806Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fc49ddfb21dd7eb0f53ee8c463b0e0b789054928892111bf3152b040d571aa10)
+
+[
+
+](https://savanna.alxafrica.com/concepts/107873?project_id=101755)
+
+Copyright © 2025 ALX, All rights reserved.
+
+# The Writing Process
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111842Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a6d538d641e3c9ca42ae3b6a4ef27575a1f9680661c82efdc786ca546c463a96)
+
+Storytelling takes place in various forms. Writing is one of the most commonly used forms of communication in the workplace, and it is extremely beneficial to understand the simple steps you can take to create relevant and compelling stories.
+
+### **Steps to Professional Writing**
+
+![Understanding Audience](https://lh3.googleusercontent.com/d/1E9ug8KLc73Ez0xmCOiboib8GaARNblxV)**
+
+#### Step 1: Understanding the Audience
+
+**
+
+Who will be reading your writing? What do they already know about the topic? What are their needs and expectations? What kind of language and tone do they respond to most? By understanding your audience, you can tailor your writing to their specific interests and needs.
+
+![Defining Purpose](https://lh3.googleusercontent.com/d/1UPXCcrNyHGQ--5poHjQEaa0PZVp_yPcu)**
+
+#### Step 2: Defining the Purpose
+
+**
+
+Once you know your audience, the next step is defining the purpose of your writing. What do you want to achieve with your writing? Are you trying to inform, persuade, or entertain? Knowing your purpose will help you stay focused and on track while you’re writing.
+
+![Research Background](https://lh3.googleusercontent.com/d/169YvyVC-AZ7fWBfAUnwrzqM8IV9c75vn)**
+
+#### Step 3: Research Background Information
+
+**
+
+To ensure that your writing includes all essential information, facts, and figures, it is crucial to conduct thorough research on the topic. Including graphs, charts, and images can help illustrate key facts and information.
+
+![Planning and Organizing](https://lh3.googleusercontent.com/d/1TJtbHuPT8V2eDwEQ3IBoyMistg1yoGhJ)**
+
+#### Step 4: Planning and Organizing
+
+**
+
+Before you start writing, plan and organize your ideas. Create an outline or a mind map to structure your writing. This helps in making your writing more coherent and easy to follow.
+
+![Sticking to One Topic](https://lh3.googleusercontent.com/d/1dw72CsUSM9Z_2mQGlsszxvMi8IU8W14M)**
+
+#### Step 5: Stick to One Topic
+
+**
+
+Mixing an array of ideas in business writing reduces the effectiveness of the main message. Stay focused on one topic to avoid confusing the reader.
+
+![Writing Clearly and Concisely](https://lh3.googleusercontent.com/d/1x29xlyDQnMlHDwrik8C59W81Rpw8gNsM)**
+
+#### Step 6: Writing Clearly and Concisely
+
+**
+
+When it comes to professional writing, clarity and concision are key. Use simple, straightforward language, and avoid jargon or overly technical terms that your audience might not understand. Be concise and to the point, and avoid using unnecessary words or phrases.
+
+![Proofreading and Editing](https://lh3.googleusercontent.com/d/1VC_imw91f_wNpmV2VlbH-iR3mZp9sIEs)**
+
+#### Step 7: Proofreading and Editing
+
+**
+
+After you’ve finished writing, it’s important to proofread and edit your work. Check for grammar and spelling mistakes, and make sure your writing is clear and easy to understand. Consider asking a colleague, friend, or Chat GPT to review your writing. Having a fresh set of eyes to look at your work can often catch mistakes or areas for improvement that you might have missed.
+
+![Following Writing Etiquette](https://lh3.googleusercontent.com/d/1g0c6BLNcqEc8HiZpC9uSf_oLyPC1Tt3L)**
+
+#### Step 8: Following Professional Writing Etiquette
+
+**
+
+In addition to the above principles, there are certain etiquette and formatting rules to follow in professional writing. This might include using proper salutations and closings in emails, using a professional tone and style, and adhering to formatting guidelines such as margins, font size, and spacing.
+
+By understanding your audience, defining your purpose, planning and organizing your ideas, writing clearly and concisely, proofreading and editing your work, and following professional writing etiquette, you can create professional writing that is clear, concise, and effective.
+# Story Arc
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111926Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e054c818ceecef918a98fb1cafffbfa175b4fe88c8f6cff1798629b81820d18e)
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/4ad7a21b56a132507a75a9bd726801b2bb1ef794.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111926Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=01004d4e11e3210f19648d3a4dbc924197330e1404d6a414dbc551dc215830c5)
+
+To write a good story, you need to follow a structured writing process, and most stories follow a particular structure called the **Story Arc**. The Story Arc has several parts, and each of them is essential to create a well-structured story. The following article explains the structure of the Story Arc and provides some amusing examples.
+
+**[Following a Story Arc Into Another World](https://drive.google.com/file/d/1-HqaUsI3vAueSkOKc7NI5b2GQbg_FYaJ/view?usp=sharing)**
+
+---
+
+What is your favorite movie or book? In what ways does it follow the ==Story Arc?== Reflect and share your thoughts with your peers on eHub, and see what they’re sharing as well!
+# Creating a Storytelling Outline
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111941Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=087bc91fa23f51bd422a5750ac36e19b9e8959b0ff7a5932bec2476ec15eae5e)
+
+To create a powerful story arc, it is essential to emphasize Step 3 of the writing process: organizing and planning. An effective tool that we can utilize for this purpose is called an outline.
+
+You may already be familiar with outlines from your previous English classes back in high school. Outlines serve as excellent aids for listing the main parts of your story, ensuring a key message in each section, and connecting all the elements together in a compelling narrative or structure.
+
+We are providing two videos on this page and the next page to give you a sense of two different approaches to outlining your story.
+
+The first video focuses on writing an outline for a speech. Remember, as a tech professional, you won’t always have your computer to hide behind. At times, you will need to address an audience or make a presentation. Having a clearly outlined and engaging speech will be advantageous. Let’s take a look at the video below to understand all the key considerations of a speech outline.
+
+Ask yourself as you watch:
+
+1. Have I understood the flow and order of a speech outline?
+2. Have I captured all the various components of a speech outline?
+3. Have I understood the importance of the “Opening” and what it ties into?
+4. What the “Close” needs to tie back to?
+
+References
+
+- Darren LaCroix. (2012, November 15). _How to Write a Speech Outline_ [Video]. YouTube. https://youtu.be/M4BkVmA0p6Y
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/b19bb3009418b35e08d419dc8a65fd78c299c46e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T111941Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=062295ec712d5d9dd5b8d4afabf7871dd7b35a9a09a23d51a26eddc1b99be16d)
+
+[
+
+](https://savanna.alxafrica.com/concepts/107876?project_id=101755)
+
+Copyright © 2025 ALX, All rights reserved.
+Timeline
+
+Chapters
+
+Transcript
+
+## Introduction
+
+0:04
+
+Hey this is Darren LaCroix how to write a speech your  speech outline the second most important step in  
+
+0:10
+
+the process of creating a great speech first  we need to understand what is our opening the  
+
+## Opening
+
+0:20
+
+opening how are you going to get your attention  and a lot of people talk about all you have to  
+
+0:23
+
+have a attention-getting opening but truly to  have a powerful opening it has to tie in to  
+
+## Premise
+
+0:30
+
+the premise which is number two the premise the  premise is the idea that you're selling whether  
+
+0:38
+
+your corporate presenter trying to get across  a point about the new 401k plan an entrepreneur  
+
+0:43
+
+promoting your business or a professional  keynote speaker the premise is the core and  
+
+0:48
+
+the reason for this presentation then we have  the body is the next step now that may be one,  
+
+## Body
+
+0:56
+
+two, or three points that we're trying to get  across then we would have next your call for  
+
+1:08
+
+action what are you trying to get the audience  to do do you want them to sign up for the new 40k  
+
+1:12
+
+plan do you want them to believe in themselves  do you want to go take action what do you want  
+
+1:17
+
+them to do and then finally your clothes we want  a strong clothes but here's the key for a great  
+
+## Clothes
+
+1:26
+
+outline of a speech if there's any way possible  we want the clothes to tie back to the opening  
+
+1:34
+
+this really gives you that circular effect and  gives a the audience the idea that you're fully  
+
+1:41
+
+prepared that you know what you're doing and  it really makes you look like a pro so you're  
+
+1:45
+
+opening your premise state that the body maybe  have one to three points a call for action and  
+
+1:52
+
+then a strong close and whenever we can tie it  back to the opening I was at a convention this  
+
+1:57
+
+weekend and I was coaching someone and he had  a great opening and a great close but both of  
+
+2:02
+
+them had nothing to do with his premise but  he wasn't aware of that so for you make sure
+
+# Presentation Storytelling Outline
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T112119Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=63c9ce4d66f6e1c73a22077a48c1813af94585b18c7cb081cfe0640a4a3cf558)
+
+  
+
+Not all of us are confident on the stage, but at some point in your career, you will need to make a presentation or a pitch. Now that you know how to structure a speech outline, let us learn about the most effective way of structuring a speech outline for a presentation.
+
+This will come in very handy as you prepare your presentation for Week 4 Milestone . Listen in and make note of the different stages you should follow.
+
+#### Great job! You have just completed one of the most important lessons this week.
+
+Reference
+
+**[](https://www.youtube.com/watch?v=ZmNpeXTj2c4)**
+
+  
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/b19bb3009418b35e08d419dc8a65fd78c299c46e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T112119Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0cd4c262b5e63fa4d625f2a8e3ee52bd17fa5dd608f64ccc0290ecf3bf1c204d)
+
+[
+
+](https://savanna.alxafrica.com/concepts/107877?project_id=101755)
+
+Copyright © 2025 ALX, All rights reserved.
+0:04
+
+Have you ever wondered how much ice cream you can get for a dollar?
+
+0:07
+
+Or what's the cheapest thing in an airport?
+
+0:09
+
+Or if it's faster to go inside or a drive-through?
+
+0:12
+
+Probably not.
+
+0:14
+
+But somehow, answering these weird questions
+
+0:16
+
+and sharing those experiences
+
+0:18
+
+have become my life's work.
+
+0:20
+
+Now even though I only have five minutes to share my viral storytelling framework,
+
+0:24
+
+great stories should be told in less than 60 seconds.
+
+0:28
+
+And it's not just about becoming a viral social media star.
+
+0:31
+
+It's about making your conversations better,
+
+0:33
+
+whether you’re with friends, family
+
+0:35
+
+or trying to convince your boss for a raise.
+
+0:38
+
+So here's how to make every second count.
+
+0:41
+
+Many great stories start with a question,
+
+0:43
+
+because it will make people stick until the end to find out the answer.
+
+0:48
+
+And remember, you want to get your audience's attention immediately,
+
+0:51
+
+so you want to start by asking something shocking.
+
+0:53
+
+And one of the things I've always wondered
+
+0:56
+
+was if fast food was really as fast as they say.
+
+0:58
+
+So I answered just this in a video
+
+1:00
+
+and got over 45 million views.
+
+1:01
+
+Let's check out how I hooked my viewers.
+
+1:04
+
+(Video) Can I have a burger?
+
+1:05
+
+Can you put cheese, lettuce and tomatoes? This thing's not hot enough.
+
+1:08
+
+(Laughter)
+
+1:09
+
+(Stage) That thing really wasn't hot enough.
+
+1:13
+
+But as you can see, I took this question very seriously.
+
+1:17
+
+And after you've hooked your audience, you want to take them on a journey,
+
+1:20
+
+building up to your answer,
+
+1:21
+
+where you want them to feel constant progression,
+
+1:24
+
+so we're moving closer and closer to our answer
+
+1:27
+
+so we feel like we can't stop listening.
+
+1:30
+
+And in my case, I did just this by saying
+
+1:33
+
+that I’ll be adding tomatoes, lettuce and cheese to the burger,
+
+1:36
+
+so now we know how close I am to finishing the competition, thus the video.
+
+1:42
+
+But if everything is smooth sailing, then nobody cares,
+
+1:46
+
+which is why we need to add conflict before getting to our answer.
+
+1:50
+
+So here's how I did that.
+
+1:51
+
+(Video) Yes, please. And cheese.
+
+1:53
+
+Mother: There's smoke in here.
+
+1:54
+
+Jenny Hoyos: This thing is still raw. Good thing there's a line.
+
+1:57
+
+Oh my goodness.
+
+1:59
+
+Mother: What are you doing? You're going to burn that car.
+
+2:01
+
+JH: I'll cut the tomatoes while this cooks.
+
+2:03
+
+Mother: I hope I don't have to eat that.
+
+2:05
+
+JH: Tell them to slow down.
+
+2:07
+
+Mother: You're doing all this for one subscriber?
+
+2:09
+
+You're going to make a mess.
+
+2:11
+
+JH: Put the ketchup on the buns.
+
+2:14
+
+(Stage) As you saw, without conflict, the audience just isn’t as invested,
+
+2:20
+
+which is why I used my mom as the B plot.
+
+2:22
+
+So you’re now not only invested in the competition
+
+2:25
+
+but also curious to see what's going to happen between my mom and I.
+
+2:30
+
+And after enough buildup, we finally need our answers.
+
+2:36
+
+Will I cook the burger faster?
+
+2:38
+
+Will I accidentally set my mom’s car on fire?
+
+2:41
+
+The key here is to build tension by making the answer feel uncertain
+
+2:45
+
+to make a satisfying ending.
+
+2:47
+
+Here's how I did just that.
+
+2:49
+
+(Video) We’re one person away.
+
+2:50
+
+We just need the burger to cook faster.
+
+2:52
+
+Mother: We're moving, we're moving.
+
+2:54
+
+JH: No, my burger is not done yet. You're driving too crazy.
+
+2:58
+
+It needs to cook faster.
+
+3:00
+
+Mother: We're next.
+
+3:02
+
+(Music)
+
+3:04
+
+JH: We're pulling up to the window.
+
+3:06
+
+(Music)
+
+3:07
+
+And, oh my goodness!
+
+3:08
+
+(Music)
+
+3:13
+
+We cooked faster and better.
+
+3:16
+
+(Laughter)
+
+3:18
+
+(Applause)
+
+3:20
+
+And that's it. We cooked faster than the drive-through.
+
+3:22
+
+Does it matter that my burger was basically raw?
+
+3:25
+
+Absolutely not.
+
+3:27
+
+Because the viewers wanted an answer,
+
+3:28
+
+so I gave it to them quickly and concisely, in an engaging way,
+
+3:32
+
+which led our video to getting over 45 million views.
+
+3:36
+
+And you might be impressed to know
+
+3:38
+
+that instead of telling this talk in five minutes, I actually did it in four,
+
+3:42
+
+so you now have an extra minute to practice your 60-second story.
+
+3:46
+
+(Laughter)
+
+3:47
+
+Because if it takes longer to tell your story than it does to make a burger,
+
+3:51
+
+then you're probably overcooking both.
+
+3:53
+
+(Laughter)
+
+3:54
+
+Thank you.
+
+3:55
+
+(Cheers and applause)# Writing Best Practices
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T142032Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e60749d514e5e9f99ff9a8b3c4a20b4f2b342b74e7e6e56e7cc649b3defd7676)
+
+Now that you have learned about story arcs and outlines, it’s time to start writing!
+
+In addition to the writing process we discussed earlier, writing has best practices that one should follow to tell compelling stories. Let’s look at these best practices from a broader communication standpoint, and then from a writing perspective.
+
+#### **Communication Best Practices**
+
+When you are writing to communicate information, your writing must meet these 7 key elements. They’re also called the “7 C’s of Communication”.
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/ba9301ff8d5eed776149db7046daefb1e5cb4bf2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T142032Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f9d96f4615df1d5a1079420f068a9dba137343cc409f0daf615e18141dfc07c2)
+
+#### **Writing Best Practices**
+
+With the 7C’s of communication in mind, let’s focus a little more on writing to tell a story or communicate.
+
+Now take time to read this **[business article](https://www.grammarly.com/business/learn/top-principles-effective-business-writing/)** that gives specific writing best practices. As you read, take note of the 8 elements of good writing.
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/b19bb3009418b35e08d419dc8a65fd78c299c46e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T142032Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6f5541da4fa6422f59e5e4bd5c66393884ef30be085ae045bcf2f8a3f1edbbf6)
+
+
+# Technical Writing
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T142140Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=90cb9e05817f519cf7955782e2539ad22127eb4a544c95c5ceb1311c98227c41)
+
+  
+
+Generally, the tips that you have already learned apply to any kind of writing. As a young tech professional, you will likely be asked at some point to read and/or produce _technical writing._
+
+Technical writing is a form of communication that conveys complex technical or specialized information in a clear and concise manner to a specific audience. It is usually used for the purpose of informing, instructing, or facilitating decision-making.
+
+Technical writing requires both creativity and logic so that technical information can be clearly explained to a specified audience. In good technical writing, complex concepts and processes are broken down into easy-to-understand language. It is common that diagrams, charts, and other visual storytelling aids are used. Technical writers may create a variety of documents, such as user manuals, technical specifications, training materials, and research reports.
+
+Examples of Technical Writing
+
+- User manuals for software or hardware products, which provide step-by-step instructions on how to use them.
+- Technical specifications for products or systems, which detail the technical requirements and capabilities of a product.
+- Training materials for employees or customers, which teach them how to perform specific tasks or use specific tools.
+- White papers or research reports, which communicate the results of technical research or analysis to a wider audience.
+- Safety manuals or procedures, which provide guidelines and instructions on how to safely use equipment or handle hazardous materials.
+
+Technical writing plays a critical role in bridging the gap between technical experts and their intended audiences, making complex information accessible and usable for a wide range of readers.
+
+Let’s meet and watch technical writers from Google as they share insights on the importance of technical writing and the paramount role played by technical writers in the world of tech.
+
+As you watch this 2-minute video, ask yourself:
+
+- Have I understood the role that technical writing plays in the tech world?
+- What considerations do technical writers make to call their work a success?
+
+#### This is insanely cool!
+
+And did you notice how the user is at the core of the technical writing process?
+
+---
+
+==Writing and storytelling== play a pivotal role in tech to effectively communicate information within the company and to users. Learn those writing skills and hold on to them. They will boost your contribution to the world of tech.
+
+Share your thoughts on the importance of technical writing with your peers on eHub, and see what they are sharing as well.
+
+Share on eHub
+
+According to a survey, here are some interesting findings that are relevant to the workplace:
+
+- Spelling and grammar mistakes are unacceptable in most workspaces.
+- Certain industries view typos more harshly.
+- Managers are likely to be critical of typos.
+- Resume errors can cost you the job.
+- People who think they are great at spelling, grammar, and reading comprehension often are not as strong in these areas as they think _(ouch!)_
+
+Reflection Questions:  
+
+Does knowing grammar and spelling still matter in the World of AI-aided writing and acronyms? **Share your thoughts and reasons in your squad, and see what others are saying!**
+
+_PS: A special shoutout goes to those who have assisted us in catching typos. Thank you for your sharp attention to detail and for contributing to the improvement of our work. We truly appreciate your dedication and commitment. Respect!_
