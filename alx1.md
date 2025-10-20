@@ -1696,3 +1696,254 @@ an article that you find for your
 8:52
 
 research
+## Introduction
+
+0:11
+
+Evaluating sources is an important step in the research process. This tutorial explains criteria
+
+0:17
+
+you should use to evaulate sources, whether they are websites, library books, or articles from
+
+0:23
+
+library databases.
+
+0:26
+
+Use the acronym CRAP to remember the criteria you will use to evaluate sources.
+
+## CRAP Acronym Explanation
+
+0:32
+
+The letters represent Currency, Reliability and Relevance, Authority and Audience, and
+
+0:38
+
+Purpose and Point of View.
+
+0:43
+
+Step 1. To evaluate a source for currency, look for the publication date. If you are researching a
+
+## Currency Explanation and Example
+
+0:50
+
+current news topic, such as an upcoming election issue, timeliness is important.
+
+0:57
+
+If you are researching a subject such as a literary movement or history, a source that is
+
+1:03
+
+20 or more years old may be just as useful as a source published last year.
+
+1:11
+
+This book's record in the library catalog shows the publiction date after the name of the
+
+1:16
+
+publisher. Based on the subject and date, is this book still considered current?
+
+## Relevance Explanation and Example
+
+1:24
+
+Step 2. When evaluating a source for relevance, look for terminology that reflects the focus of
+
+1:31
+
+your research. Determine if the source contains the information you need.
+
+1:37
+
+For example, using the book's record, look for subject headings that describe the item's focus.
+
+1:47
+
+A table of contents or summary of the item might be available to read.
+
+## Reliability Explanation and Example
+
+1:54
+
+Step 3. Look for signs of the item's reliability. Are any references listed? If your source is a
+
+2:01
+
+website, are any links provided? What are the links?
+
+2:05
+
+Additionally, consider whether or not the source has a specific bias or slant of opinion.
+
+2:13
+
+Opinions are helpful if you want to construct a persuasive agrument. When you are looking for
+
+2:17
+
+hard facts, on the other hand, locate sources that are informative rather than persuasive.
+
+2:24
+
+This article has numerous links throughout its contents.
+
+2:29
+
+It also ends with references for additional sources.
+
+## Authority Explanation and Example
+
+2:35
+
+Step 4. Determine the authority responsible for the source. Look for evidence that the author
+
+2:42
+
+or organization is a credible expert on the topic. Often you can find this information within the
+
+2:48
+
+publication itself.
+
+2:52
+
+Let's say that you've located an article by Deborah Tannen. If you conduct a quick search,
+
+2:57
+
+you will see that she is a professor at Georgetown University who has written many
+
+3:01
+
+books and articles about language and communication.
+
+3:07
+
+If you are using a website, look at the website's domain extension. Websites with .edu domains
+
+3:13
+
+are tied to academic institutions. United States government websites have a .gov domain.
+
+3:20
+
+Others to consider are .org for nonprofit organizations that may have a specific opinion
+
+3:26
+
+or agenda, .com for commercial organizations such as Amazon.com, and .net, which may be
+
+3:33
+
+a personal or local community website.
+
+## Audience Explanation and Example
+
+3:39
+
+Step 5. No matter what type of source you are using, it is important to consider the target
+
+3:45
+
+audience. Is the information presented for the general public, for college students, or for
+
+3:51
+
+professionals in a specific trade or research field? Or, is it for an entirely different audience?
+
+3:59
+
+This particular website has sections for kids and for teenagers.
+
+## Purpose and Point of View Explanation and Example
+
+4:06
+
+Step 6. Consideration of the author's purpose and point of view is also important in evaluating
+
+4:13
+
+a source. What is the author's or organization's goal in publishing the information?
+
+4:19
+
+Is the goal to present facts, sell a product, or persuade an audience?
+
+4:25
+
+Additionally, consider whether any ads present detract from the content.
+
+4:32
+
+Is this site's purpose merely to inform or to sell a specific diet?
+
+## Library Contact Information
+
+4:39
+
+For additional help on the CRAP test and evaluating sources, ask a librarian.
+
+# Evaluating Secondary Sources
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T095816Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=05c27c7ea4c6d94356654654d6a8bce7a31c883094ecc348681190495efe66a7)
+
+  
+
+So you’ve done your research and have gathered a wealth of information – how do you go about trimming this information and deciding what is valid and what is not? Well, have you ever heard about the criteria called **CRAP**? (Don’t worry, we’re not violating the Code of Conduct!)
+
+CRAP is a powerful mnemonic / easy-to-remember tool to help you evaluate your sources. Watch the video below to learn more about CRAP. After you watch ask yourself:
+
+1. Have I understood what **each letter of the acronym CRAP means?**
+2. Have I understood the **recommended steps** to follow and **questions to ask** when evaluating sources?
+
+  ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/090d917578ce6ddb814e77fba5f542c109606d54.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T095816Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1149e9f1defbbe9e0d73358ba70d8bd47273e26b9d951b7dc9dcfe6180f02022)  
+
+References
+
+- Information Literacy. (2019, February 15). _CRAP Test for Evaluating Websites_ [Video]. YouTube. Retrieved from [https://www.youtube.com/watch?v=FKaH7PlXx1Q](https://www.youtube.com/watch?v=FKaH7PlXx1Q)
+
+  
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/b19bb3009418b35e08d419dc8a65fd78c299c46e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T095816Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ee95a5611e40bb7fc48536c4a053fca626c742e74e301353a8604bf65df25cf8)
+
+[
+
+](https://savanna.alxafrica.com/concepts/107860?project_id=101753)
+
+Copyright © 2025 ALX, All rights reserved.
+
+ [Problem Definition Review](https://savanna.alxafrica.com/concepts/107855?project_id=101753) [Asking the Right Questions Review](https://savanna.alxafrica.com/concepts/107856?project_id=101753) [Introduction to Web Research](https://savanna.alxafrica.com/concepts/107857?project_id=101753) [Research Methodology](https://savanna.alxafrica.com/concepts/107858?project_id=101753) [Individual Activity: Planning Your Research](https://savanna.alxafrica.com/concepts/107859?project_id=101753) [Best Practices When Conducting Research](https://savanna.alxafrica.com/concepts/107860?project_id=101753) [Evaluating Secondary Sources](https://savanna.alxafrica.com/concepts/107861?project_id=101753) [Evaluating Secondary Sources 2](https://savanna.alxafrica.com/concepts/107862?project_id=101753) [Citing Sources](https://savanna.alxafrica.com/concepts/107863?project_id=101753) [End of Module 4.3](https://savanna.alxafrica.com/concepts/107864?project_id=101753) [Check Your Understanding: Web Research 1](https://savanna.alxafrica.com/projects/101753)
+
+## Web Research 2
+
+## Writing Foundations
+
+## Communicating a Story
+
+## Written Communication in Tech Teams
+
+## Work Planning
+
+## Week 4 Test and Milestone
+
+# Evaluating Secondary Sources 2
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T104541Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=01f2789115e5932dbce2f315477b0d207247dbcf31a0965fe45b96c10ab95d29)
+
+  
+
+In addition to the CRAP considerations, you can also ask yourself the following additional questions to help you determine if a source is reliable:
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/eedec3a2a296602411b8abd68983b3a78a38190e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T104541Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=24620bfb19905d09b1868897c92d9569ef5b26d751a5b33f81e4e9ef2fe23d0d)
+
+Keep in mind that everything is written from a particular social, cultural, and political perspective. Realize that some publications tend to be ‘slanted’ towards a certain viewpoint.
+
+---
+
+Identify a piece of writing or news that you just read. It can be anything; a newspaper article, an editorial piece or something your uncle forwarded to you on WhatsApp. Use the ==CRAP or SIFT== methods to evaluate the sources used in that piece of writing to determine whether they are legitimate or not. Share what you found, along with the context of the article, with your peers on eHub. Also, read through your peers’ responses to get a better understanding of the different forms of sources and their evaluation.
