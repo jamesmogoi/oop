@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "Study Roadmap"
             }
+          },
+          {
+            "id": "1555d3306f1b7b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "alx1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "alx1"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -279,7 +293,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,10 +308,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eb58628f2aa9520",
+  "active": "1555d3306f1b7b22",
   "lastOpenFiles": [
-    "TLP.md",
     "Study Roadmap.md",
+    "alx1.md",
+    "TLP.md",
     "SEO RAZOR.md",
     "Untitled",
     "seo.md",
