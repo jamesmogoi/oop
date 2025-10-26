@@ -4,151 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "17e398035b9ca425",
+        "id": "eb6fc560453f9cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "9675f45ec80f0607",
+            "id": "0b0d67073077bfa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "2025-10-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "2025-10-26"
             }
           },
           {
-            "id": "58e54ba66c1c45a7",
+            "id": "ebea6fa342570a64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c++.md",
+                "file": "assignment sad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c++"
-            }
-          },
-          {
-            "id": "34c7ebb0305b8d86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++ BASICS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C++ BASICS"
-            }
-          },
-          {
-            "id": "b854160cb5b8d958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "337fc4627969df9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Analysis and Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "System Analysis and Design"
-            }
-          },
-          {
-            "id": "8b34713cbdfaa6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "seo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "seo"
-            }
-          },
-          {
-            "id": "d53134ba6a318821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEO RAZOR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SEO RAZOR"
-            }
-          },
-          {
-            "id": "0c52f7685feeba8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TLP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TLP"
-            }
-          },
-          {
-            "id": "0eb58628f2aa9520",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study Roadmap"
-            }
-          },
-          {
-            "id": "1555d3306f1b7b22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "alx1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "alx1"
+              "title": "assignment sad"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "94a6531f08915810",
@@ -307,34 +195,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1555d3306f1b7b22",
+  "active": "ebea6fa342570a64",
   "lastOpenFiles": [
+    "2025-10-26.md",
+    "assignment sad.md",
+    "sad.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Alx 7.md",
+    "2025-10-09.md",
+    "c++1.md",
+    "touchscreen.md",
+    "alx1.md",
+    "Study Roadmap.md",
+    "TLP.md",
+    "SEO RAZOR.md",
+    "seo.md",
+    "System Analysis and Design.md",
+    "Untitled.md",
+    "C++ BASICS.md",
+    "c++.md",
+    "Welcome.md",
+    "cplus + 3.md",
+    "Untitled 1.md",
+    "C++",
     "Pasted image 20251020135820.png",
     "Untitled 2.md",
-    "Untitled.md",
     "peer.md",
     "OS.md",
-    "c++1.md",
     "ALX7.md",
     "ALX6.md",
     "ALX5.md",
     "ALX4.md",
-    "Alx 7.md",
-    "Alx3.md",
-    "Alx2.md",
-    "Alx.md",
-    "2025-10-09.md",
-    "Study Roadmap.md",
-    "alx1.md",
-    "TLP.md",
-    "SEO RAZOR.md",
-    "Untitled",
-    "seo.md",
-    "wezterm config.md",
-    "System Analysis and Design.md",
-    "C++ BASICS.md",
-    "c++.md",
-    "README.md",
-    "Welcome.md"
+    "Untitled"
   ]
 }

@@ -2860,3 +2860,1472 @@ Reflection Questions:
 Does knowing grammar and spelling still matter in the World of AI-aided writing and acronyms? **Share your thoughts and reasons in your squad, and see what others are saying!**
 
 _PS: A special shoutout goes to those who have assisted us in catching typos. Thank you for your sharp attention to detail and for contributing to the improvement of our work. We truly appreciate your dedication and commitment. Respect!_
+
+
+# The Power of Storytelling
+
+  
+
+“A powerful story can change the world.”  
+
+After watching and listening to some of the stories we shared in the previous module, do you believe the above statement is true?
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/9901fc04f62836f129ad7fd339c21a36035c4a1e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T143130Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c07500bdfde2750b7b81effc3e298bbce6feaa7db2804cf3475eee9c91bbfef3)
+
+Now that you have learned a little bit about what makes a powerful story, how to design it into an overall arc, and how to put your writing to the test, let’s discuss how you can leverage storytelling as a tool to illustrate the problems that matter to you and that you are seeing in your communities today.
+
+==With a single story, we can…==
+
+- Inspire individuals to join our cause
+- Encourage donors to fund our projects
+- Illustrate our organization’s impact
+- …and many more!
+
+Let’s see how leaders and changemakers have used stories to maximize their impact!
+
+  
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2025/4/61251dd83909782dc09e3a9f9ca7253fe0dc8775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T143130Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a05c79999629c0761ad9d450ed837faabf148bfa9e458e90d5772b3e65f13174)
+
+
+# The Stories Behind Our Problems 1
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T143217Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b40de651e9e601e7fee69b2ebe15fab0b9286e2b8daf000983bbc43042b3ce78)  
+
+Each of us has a passion, cause, or interest we are fighting for. This much is clear to us through the GCGOs we feel most affiliated/connected to. We read articles, gather facts, and do our research (as we have already done) to understand these problems more deeply.
+
+But not everyone understands or feels as connected to these problems as we do. Because of that, we must harness the power of stories.
+
+#### Why are stories a great way to illustrate these problems?
+
+- Relatability: Stories have a way of grounding the problem in a reality that the average person can relate to.
+- Empathy / Sympathy: Stories can show how a big problem affects people’s lives in a way that elicits an emotional reaction.
+- Concreteness: Stories can also show how large, complex problems have a real effect on daily life as opposed to relying on statistics.
+
+**Over the next pages, we will watch 3 videos to learn how three leaders have used stories to illustrate the problems they are trying to solve.**
+
+As you watch, pay close attention to the effectiveness of the storytelling and the impact it creates for the audience in each example.
+
+#### **Story 1: Sangu Delle uses a personal story as an impactful teaser for his speech.**
+
+References
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/b19bb3009418b35e08d419dc8a65fd78c299c46e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T143217Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1152e4a9400febd28d6d9e0cea77504e627ab4a9c485a8751f982f015cd1a26a)
+
+[
+
+](https://savanna.alxafrica.com/concepts/107883?project_id=101756)
+
+Copyright © 2025 ALX, All rights reserved.
+
+# The Stories Behind Our Problems 2
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T143242Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b8e1e6c48fa9543e27fa88b03268cb4652521608b5d9b9e6bbc5d0555ffb331a)  
+
+#### Story 2: Kakenya Ntaiya
+
+Take note of Kakenya Ntaiya’s choice of words, which vividly evoke our imagination, and observe how her storytelling skillfully tugs at our emotions and heartstrings. Listen closely to the power and impact of her story.
+
+References
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/b19bb3009418b35e08d419dc8a65fd78c299c46e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T143242Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c39a2b2e5494bb9c91270ce724b60eb329ecbf1ab8dbbb7f4a365c258974c6f2)
+
+[
+
+](https://savanna.alxafrica.com/concepts/107884?project_id=101756)
+
+Copyright © 2025 ALX, All rights reserved.
+
+# The Stories Behind Our Problems 3
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T143307Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e7d33945a542a84cb51ba5c0c144b6b27e0924a8b3b5fe31b20c24e582dfdc23)  
+
+#### Story 3: Captivating Through Shocking Statistics
+
+This story captivates us from the start with shocking statistics and compelling facts, leaving us with no choice but to be fully engaged. Pay attention to how the narrative hooks us and holds our attention throughout.
+
+---
+
+Now that you’ve heard all 3 stories, what are the similarities between the way the speakers used stories to illustrate their key message? Do you think these methods were effective?
+
+Share your thoughts on the stories with your peers on eHub, and see what insights others have shared as well.
+
+Share on eHub0:04
+
+In West Africa, where I live,
+
+0:06
+
+there are 60 million smallholder farmers.
+
+0:09
+
+Smallholder farmers are the largest group
+
+0:11
+
+of people living on less than two dollars a day.
+
+0:14
+
+Many go hungry each year because they don't grow enough to eat.
+
+0:18
+
+Government subsidies,
+
+0:19
+
+which could be as much as 90 million in a single year for a country,
+
+0:23
+
+don’t meet full demand
+
+0:24
+
+and are often driven to large farms and male farmers,
+
+0:28
+
+even though women are the backbone of farming in Africa.
+
+0:32
+
+Despite these investments,
+
+0:33
+
+yields per hectare haven’t increased significantly in over four decades.
+
+0:39
+
+So smallholder farmers earn the bulk of their cash at harvest time,
+
+0:44
+
+but then, fast-forward nine months later, at planting time, they're cash-poor again.
+
+0:49
+
+The prevailing assumption is that farmers need grants,
+
+0:52
+
+subsidies or credit
+
+0:53
+
+in order to be able to invest in their farms.
+
+0:56
+
+But we found a surprising insight.
+
+0:59
+
+The fundamental problem isn't that farmers have no cash.
+
+1:03
+
+It's that they don't have it when they need it.
+
+1:06
+
+I first came across this paradox in 2008,
+
+1:09
+
+when I was working in microcredit.
+
+1:11
+
+Farmers would ask me things like,
+
+1:13
+
+“Can I over-repay my loan for next year’s loan?”
+
+1:17
+
+or, “Hey, could I repay my loan a year in advance?”
+
+1:21
+
+Even though they were using the language of credit,
+
+1:24
+
+what they were actually describing was a need to save.
+
+1:29
+
+But do farmers have any money to save?
+
+1:32
+
+Do people living on less than two dollars a day
+
+1:35
+
+have any money to save?
+
+1:37
+
+Well, it turns out that they do,
+
+1:39
+
+just in very small increments.
+
+1:41
+
+At a local market, they might sell a few eggs for a dollar,
+
+1:44
+
+or sell a goat for 10,
+
+1:46
+
+work on someone else's farm,
+
+1:47
+
+and over time, you can imagine how that money could add up.
+
+1:52
+
+But many farmers live far away from banks,
+
+1:54
+
+so they hold that money on them, or they hide it at home,
+
+1:57
+
+where it's at risk of theft, fire, even flood.
+
+2:02
+
+And hey, even without those risks, money at home is tempting.
+
+2:05
+
+It's hard to hold on to cash.
+
+2:08
+
+And sometimes, the smartest thing to do might be to spend it.
+
+2:13
+
+So the real problem that farmers face is that they lack a safe place to save.
+
+2:19
+
+And if they could save,
+
+2:20
+
+they could afford to buy what they need to make their farms more productive
+
+2:24
+
+and resilient to climate change.
+
+2:26
+
+This is a 100-billion-dollar problem in sub-Saharan Africa each year.
+
+2:32
+
+Setou, a peanut farmer in Mali, was facing a similar challenge.
+
+2:36
+
+When we met in 2014, she was feeling overwhelmed.
+
+2:40
+
+Climate change was hurting her harvest,
+
+2:42
+
+and at planting time,
+
+2:43
+
+she didn't even have money to rent a cow to plow her farm,
+
+2:47
+
+let alone money for improved seeds and fertilizer.
+
+2:51
+
+But we realized she could have saved for what she needed
+
+2:54
+
+if she had a safe place to do so.
+
+2:58
+
+Our nonprofit, myAgro, helps farmers in Mali, Senegal and Tanzania
+
+3:02
+
+save up, little by little,
+
+3:04
+
+for the improved seeds and fertilizer they need.
+
+3:07
+
+Together, these help improve harvests
+
+3:11
+
+and generate a 3x return on their investment.
+
+3:15
+
+Here's how the program works.
+
+3:17
+
+We start with a young entrepreneur like Demba.
+
+3:20
+
+We equip him with a smartphone and our app, myAgro Connect,
+
+3:24
+
+so that he can manage his sales territory.
+
+3:27
+
+At harvest time, Demba visits farmers in his village
+
+3:29
+
+and asks them if they want to sign up for a myAgro package
+
+3:32
+
+to improve their harvest and income.
+
+3:35
+
+After a farmer signs up,
+
+3:37
+
+they can pay slowly, over the course of nine months.
+
+3:41
+
+To collect their savings payments,
+
+3:43
+
+we replicate the way people buy prepaid minutes for their phone.
+
+3:47
+
+It's really simple --
+
+3:49
+
+you buy a scratch card, scratch off the back,
+
+3:52
+
+and a unique code appears,
+
+3:54
+
+which you text in to validate your payment.
+
+3:57
+
+We use the same technology to help farmers save up for the planting period,
+
+4:02
+
+and because farmers are familiar with how it works,
+
+4:04
+
+they trust it and use it correctly.
+
+4:07
+
+It's also so much more transparent than traditional methods,
+
+4:10
+
+which is usually, you hand over your cash to an agent, without any receipt.
+
+4:15
+
+With our platform,
+
+4:16
+
+we know exactly who has made a payment
+
+4:18
+
+and when and how much the village entrepreneur needs to transfer to us.
+
+4:22
+
+A farmer can also pay directly via mobile money, if they have it.
+
+4:28
+
+Farmers are able to save up in a way that's joyful.
+
+4:31
+
+They often hold on to their scratch cards,
+
+4:33
+
+and they look at them with awe and pride
+
+4:36
+
+of how much they've been able to save over time.
+
+4:39
+
+It's transparent, convenient and stress-free.
+
+4:42
+
+Tell me, when was the last time your bank made you that happy?
+
+4:45
+
+(Laughter)
+
+4:47
+
+(Applause)
+
+4:48
+
+Designing --
+
+4:49
+
+(Applause)
+
+4:51
+
+Designing a savings plan this way has made it particularly easy for women.
+
+4:56
+
+They value the democratic access to seeds and fertilizer,
+
+5:00
+
+and the savings cadence matches the small amounts of money
+
+5:02
+
+they earn each week at local markets.
+
+5:06
+
+In a region where 20 percent of women own a bank account,
+
+5:09
+
+60 percent of myAgro farmers are women.
+
+5:14
+
+In 2021, the average myAgro farmer grew two times more food
+
+5:18
+
+than non-myAgro farmers in the same area.
+
+5:21
+
+This translates to 200 dollars of additional net income.
+
+5:26
+
+For context, for a farmer living on 1.50 per day,
+
+5:29
+
+that's a 35 percent increase.
+
+5:32
+
+And by expanding the purchasing power for smallholder farmers,
+
+5:36
+
+the financial prospects of young entrepreneurs like Dembe
+
+5:39
+
+are also improving.
+
+5:41
+
+Before myAgro, he was doing OK selling goods on his own,
+
+5:45
+
+but now, selling seeds and fertilizer to his community via our model,
+
+5:48
+
+he is thriving.
+
+5:50
+
+He bought two freezers to expand his business,
+
+5:53
+
+and he dreams of building a home for his family.
+
+5:56
+
+Last year, Dembe served 400 farmers in his village.
+
+6:01
+
+Using a savings-led model has many benefits.
+
+6:04
+
+For the farmers, it's reliable and low-stress.
+
+6:07
+
+For the organization,
+
+6:08
+
+it means we don't need to raise large amounts of working capital each year.
+
+6:12
+
+Instead, we're unlocking capital from farmers directly.
+
+6:16
+
+And by offering farmers a trusted and transparent way
+
+6:20
+
+to save their own money,
+
+6:22
+
+they are breaking the cycle of poverty for their families
+
+6:25
+
+and entering a cycle of investment and growth.
+
+6:29
+
+Meanwhile,
+
+6:30
+
+Setou has transformed her life,
+
+6:33
+
+all with the power of her own savings and farming.
+
+6:37
+
+In 2014, she decided to try us
+
+6:39
+
+and planted a quarter of her peanut farm with us.
+
+6:42
+
+Each year, with her increased profits,
+
+6:44
+
+she reinvested a portion in building her assets.
+
+6:48
+
+Today, she owns ten cows,
+
+6:50
+
+which she rents out to her neighbors to earn additional income.
+
+6:53
+
+(Applause)
+
+6:59
+
+Last year, she planted her entire one-hectare peanut farm with myAgro.
+
+7:05
+
+And with her profit,
+
+7:06
+
+she proudly moved her family from their one-bedroom home ...
+
+7:10
+
+to this.
+
+7:12
+
+(Cheers and applause)
+
+7:18
+
+And now, the next generation is benefiting from Setou’s smart farm investments.
+
+7:23
+
+When we get this model to scale, it will be transformational.
+
+7:27
+
+Today, we serve over 100,000 farmers,
+
+7:30
+
+and with investments in data and technology,
+
+7:33
+
+our audacious vision is to reach one million farmers
+
+7:36
+
+in the next five years.
+
+7:38
+
+(Cheers and applause)
+
+7:44
+
+We believe we can harness the power of farmers' own savings
+
+7:47
+
+to greatly reduce poverty and hunger in West Africa.
+
+7:50
+
+Now is the time to use a savings-led approach
+
+7:53
+
+to ending poverty for farmers.
+
+7:55
+
+Thank you.
+
+7:56
+
+(Cheers and applause)
+
+# Problem Impact Assessment
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T165655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a15c8967eee2421903762b7f6cdf609502d5c27a395b297be984082dc8eb0396)  
+
+It’s great to see that you’re now convinced of the power of storytelling in illustrating the problems we encounter in the world.
+
+Storytelling is a fun and effective way to tackle problems because it:
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/186299602292e01ad1f21d6ac10c5faeb066e5e7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T165655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8295f3d72e2026b75bd2f57309c2961b54f2aa0354fecbf8017263dc2a5ede2e)
+
+---
+
+Now, let’s dive into getting started with storytelling for problem-solving.
+
+#### **The best way to start is by conducting a ==Problem Impact Assessment.==**
+
+A Problem Impact Assessment helps you understand the primary stakeholders affected by the problem and how it impacts them. Recall the problem statement you crafted last week and take a moment to review it. Then, ask yourself the following questions:
+
+- Which groups of people are primarily impacted by this problem?
+
+- Individuals: Consider age groups, specific sectors, and geographic location.
+- Corporations: Think about industries, business size, and functional areas.
+- Public Entities: Include governments at different levels, non-profits, and NGOs.
+- Multi-national Organizations
+
+- How does the problem affect each group? Consider areas such as lifestyle and quality of life, labour conditions, health and well-being (physical, mental, emotional), efficiency and productivity, safety and protection.
+- How does this impact manifest in their everyday lives? Think about how the problem affects their daily routines and experiences.
+- How does this impact change their quality of life or outcomes? Explore how the problem alters their overall well-being and results.
+
+By addressing these questions, you’ll gain a deeper understanding of how to illustrate the impact of the problem more powerfully through storytelling.
+# Individual Activity: Problem Impact Assessment
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/f5865018ddac73e42bb695b3b3a22299f74abaa4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T165921Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=74cc27fac8bddff2e991c4ee78373f937d8079c229b8bdee3cf76dff2fdbb6c5)
+
+  
+
+#### This activity will take you a step closer to defining some of the details you will need for your Week 4 Milestone submission.
+
+Open a new Google Doc and label it **“Problem Impact Assessment”**. Using the guide questions you just received on conducting a Problem Impact Assessment, craft a compelling 1-page reflection on how your chosen problem affects different groups of stakeholders.
+
+ ==1 -== Start by revisiting your problem statement from last week.
+
+---
+
+==2 -== Identify the primary groups of stakeholders impacted by the problem. Consider individuals, corporations, public entities, and multinational organizations.
+
+---
+
+==3 -== Address the Problem Impact Assessment questions for each stakeholder group. Be concrete and vivid in your descriptions to create a powerful reflection.
+
+---
+
+==4 -== Focus on specific details such as age groups, sectors, geographic locations, industries, business sizes, functional areas, government levels, non-profits, NGOs, and multinational organizations.
+
+---
+
+==5 -== Dive into the effects of the problem on each group, exploring aspects like lifestyle and quality of life, labour conditions, health and well-being (physical, mental, emotional), efficiency and productivity, safety, and protection.
+
+---
+
+==6 -== Paint a vivid picture of how the impact manifests in their everyday lives, capturing the challenges and obstacles they face.
+
+---
+
+==7 -== Highlight the transformative effects on their quality of life and outcomes, illustrating the significance of the problem for each stakeholder group.
+
+---
+
+Remember to proofread your reflection for grammar and spelling.
+
+Crafting Powerful Stories
+
+  
+Now, let’s talk about how to convert your Problem Impact Assessment into an actual story. For this, don’t forget to use some of the tips and tricks you learned in the last module about how to build a powerful Story Arc.
+
+
+
+
+
+Want to learn more about how to start crafting your story? Continue to read this article on using stories to describe a problem you are solving.
+
+The steps above give you some skeleton/structure for an initial story. Next, we will learn about some extra steps you can take to refine your story further and make it as powerful as possible.
+
+# Stakeholder vs Audience
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T170015Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dc621700749991a44ebd4bce7665215a5fcc29fabf39c0ef2613f6c2262d3fb7)  
+
+Now that you have understood your chosen GCGO problem (Problem Statement), the stakeholders it affects (Problem Impact Assessment), and the stakeholder you want to use as your protagonist in your story—it is time to understand your ==audience==. Who are you telling your story to?
+
+The stakeholders and your audience are distinct entities. Click the interactives below to learn more about them.
+
+**Stakeholders**
+
+These are the individuals or groups directly affected by the problem. When considering the impact on stakeholders, think about their experiences, challenges, and needs related to the issue. Understanding their perspective will help you create a more impactful and relevant story.
+
+**Audience**
+
+Your audience is the group of people you are presenting your story to. They may include stakeholders, as well as others who may not have direct involvement but have an interest in the topic. Tailor your story to resonate with the audience’s interests, values, and motivations. Consider how the story can engage, educate, or inspire them to take action or change their perspective.
+
+#### Yes, we care and knew you needed that clarity 🙂
+
+# Understanding Your Audience
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T170037Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=efb10381c3c86f7aa16a85a226bdd483206a008cde9f18006900c3ec83197aaa)  
+
+To improve on your story, it is also important to think about the audience that will be hearing it. To do so, you can ask yourself the following questions about your audience:
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/285e66540f7f515b47f376f0afca77dd58eed8b5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T170037Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=adfc5f74d27fb4ce7a04bfceea4fde43a0f5b2afb29354b2793f5af237e4bb8b)# Using Ethos, Pathos & Logos
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T170059Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e9300302d2c8cfba03ad2386d62f2ac997633b59e7abd2c7535cb45bd82e09d9)  
+
+In addition to understanding your audience, you can also employ some “persuasive appeals” to make your message more effective.
+
+These are ethos, logos, and pathos. Watch the video below to learn about what each of these appeals can do and how to employ them successfully.
+
+Ask yourself as you watch:
+
+1. Have I grasped the meaning of each appeal?
+2. Have I understood how logos, ethos, and pathos differ?
+3. How does “audience awareness” come into play?
+
+---
+
+Which of these elements did you observe being demonstrated in the videos you watched from the lessons “The Stories Behind Our Problems 1, 2, and 3”? Can you explain why? Which one do you think will be the most effective for you? Share your thoughts with your peers on eHub, and see what they’re sharing as well!
+:01
+
+the three persuasive appeals logos ethos
+
+0:04
+
+and
+
+0:07
+
+posos 2,300 years ago famous philosopher
+
+0:10
+
+Aristotle argued that there were three
+
+0:12
+
+ways to persuade someone and these three
+
+0:15
+
+persuasion appeals are the same modes of
+
+0:17
+
+persuasion used today by politicians
+
+0:20
+
+advertisements and public speakers
+
+0:25
+
+alike the first persuasive appeal is
+
+0:27
+
+logos or logical appeal logos is
+
+0:30
+
+persuading by appealing to one's logical
+
+0:32
+
+side through reason often through facts
+
+0:34
+
+statistics charts and
+
+0:38
+
+graphs the second persuasive appeal is
+
+0:41
+
+ethos or credibility appeal ethos is
+
+0:43
+
+persuading by establishing that the
+
+0:45
+
+Persuader is trustworthy often through
+
+0:47
+
+showing where one's information came
+
+0:49
+
+from or by using an expert or
+
+0:54
+
+testimonial the last persuasive appeal
+
+0:56
+
+and often the most effective is posos or
+
+0:59
+
+emotional appeal
+
+1:00
+
+p is persuading by appealing to one's
+
+1:02
+
+emotions and by creating an emotional
+
+1:04
+
+response such as sadness or
+
+1:08
+
+happiness it is also important to note
+
+1:10
+
+that good persuaders keep in mind the
+
+1:12
+
+target audience when using logos ethos
+
+1:14
+
+and posos this is called audience
+
+1:18
+
+awareness after all it wouldn't make
+
+1:20
+
+sense to show a toy commercial during a
+
+1:22
+
+late night talk
+
+1:25
+
+show in the end it's important to use a
+
+1:28
+
+balance of all three persuasive appeals
+
+1:30
+
+this will keep your audience engaged
+
+1:32
+
+while keeping their trust in
+
+1:36
+
+you so next time you're aiming to
+
+1:38
+
+persuade someone use all three
+
+1:40
+
+persuasive appeals then you can tell
+
+1:42
+
+everyone you're cool like
+
+1:46
+
+Aristotle
+
+# Identifying Key Messages
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T172003Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=964e6b1160c201f0b6dc0aa2a9adbc6e8eb9f53321bd5b52de4be655833c4481)  
+
+Finally, you can ensure maximum effectiveness for your story if you are clear on the key messages you want to make sure your audience hears/understands/realizes.
+
+Part of this is thinking through how you want your audience to **FEEL**, what you want them to **THINK**, and what you need them to **KNOW** after hearing your story. Once you understand these three things, you can work backwards to determine how you want to position the key messages of your story.
+
+Let’s think about it…  
+
+If you want your audience to feel **infuriated/angry** after your presentation, maybe you focus on a story of **injustice**.
+
+If you want your audience to think that they have a **role they can play**, maybe you can share a story of how **one person was able to make a difference.**
+
+If you want your audience to know about how the **system is broken**, maybe you can focus on a story of **inefficiency and wastage.**
+
+==Makes sense, right?== First, decide on the end goal of your story, and then work backwards to effectively shape and position your key message.
+
+# Communicating for Impact in Agile Tech Teams
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/6f3fe347c4cb00735a43825776c9388c33452a21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T172153Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0a2d7bbf8288c00554a4c9915b0fc585ec3ce722b25375eb2c4d7b6cda937a63)
+
+You’re soon going to be part of technology teams in startups and big established corporates. While there may be different communication requirements for different roles, **good written communication is crucial throughout a product’s development lifecycle** and might mean the difference between a successful and a bad product release.
+
+As a new entrant in tech, it’s important to understand the benefits of effective written communication within teams and organizations. Here are some of the reasons why:
+
+- ==Clarity:== Agile teams need to work quickly and efficiently, and good written communication helps ensure that everyone is on the same page. When team members communicate clearly in writing, there’s less room for confusion, misunderstandings, or delays caused by having to clarify information.
+- ==Documentation:== Agile development often involves making changes quickly, and good written communication is essential for documenting those changes. Written communication, such as emails or chat messages, can serve as a record of decisions made, problems encountered, and solutions implemented, which can be used for future reference.
+- ==Collaboration:== Agile development relies on collaboration between team members, and written communication is a key tool for making that collaboration work. Good written communication can help ensure that team members are sharing ideas and working together effectively, even if they’re not in the same physical location.
+- ==Remote work:== In recent times, remote work has become increasingly common in technology companies, and good written communication is especially important in remote teams. Written communication can help ensure that remote team members stay connected and informed, despite not being in the same location. Think of the fact that we’re able to attend class at ALX today from different cities across the world with no technical hitches!
+- # Product or Feature Announcement Example
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T172428Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=17bf3622f382663b8ce7cd174a73813cd42c86b84e66fb46ed8a37f8006cbeff)  
+
+So what does a real-world product or feature announcement look like? We are so glad you asked because we have the answer.
+
+**Here is an example of a real-world feature/product announcement.**
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/8/be3c4472f3a8c68b48b39d5cecae87ec0a5241bc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T172428Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=124fcf132b229a3363580e84030200b16c42e07c919c45642551276ce1cd3751)
+
+_**The numbers below correspond to the numbers in red in the image above.**_
+
+1. **Good subject line** to help viewers understand what an update is about.
+2. **Know the audience** you’re trying to communicate with.
+3. **Give context** to stakeholders on why this communication is important.
+4. **Next steps:**
+5. **Clear, concise, and easy-to-understand language** overall.
+
+Topic Exercise
+
+If you’re subscribed or signed up for any app or digital product, you must have received release notes or release announcements with every update. For example, if you have the WhatsApp app on your phone, you’ll find the latest release notes about the app in the App Store or Play Store. Look at some of these release notes or announcements in your inbox or application stores and see how many of the elements discussed here are found in them as well. If you find anything interesting, share them with your peers on **[eHub](https://ehub.alxafrica.com/)**, and see what they’re sha
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/b19bb3009418b35e08d419dc8a65fd78c299c46e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T172428Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=900086565472bfdb1100c919d62725cdb435460f82f075b819b9f80be10713ad)
+
+[
+
+](https://savanna.alxafrica.com/concepts/107896?project_id=101757)
+
+Copyright © 2025 ALX, All rights reserved.
+
+# Common Written Communication for Agile Teams: Stand-Up Updates
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T172528Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5f7446ba734be0b2dd97229b690337ae461df4e3c69a9bcd43d6319be08e2fb0)  
+
+Stand-up meetings are scheduled within a team so that team members can coordinate, collaborate, and foster transparency in their workflows. They’re also known as **SCRUM** meetings and serve as a quick and informal way for team members to share updates, align their efforts, and address any potential obstacles or blockers.
+
+Instead of stand-up meetings, some teams opt for an informal format where team members post their updates in a commonly shared communication channel such as Microsoft Teams or Slack. In general, when communicating with team members on a shared communication channel, keep the following tips in mind. Click through the interactives below to learn more about each tip.
+
+1. Use clear and concise language
+
+When using team collaboration and communication platforms such as Slack or Teams, be brief and to the point. Assume that the people to whom you’re sending a message have loads of other messages to look at, so you’re only trying to capture their attention momentarily. Avoid unnecessary jargon and use plain language to ensure everyone understands the message quickly.
+
+2. Utilize the relevant channels
+
+When making an update regarding the progress of tasks assigned to you, make sure you use the appropriate channels. For instance, there will most likely be a dedicated channel (think of channels as stakeholder groups) for making stand-up updates for the team. Posting a stand-up message on a channel meant for sharing funny tech memes 💀 will probably defeat the purpose of the stand-up update. Don’t you think so?
+
+3. Leverage threads for in-depth discussions
+
+When an update is made to a channel and a discussion stems out of the update, lean towards creating responses on the thread as shown in the example below borrowed from Slack. Replying through starting a new update breaks the flow of the message intended to be communicated.
+
+4. Use @mentions effectively
+
+When you need actions on tasks to be handled by team members, make sure to mention them in your update which ensures full transparency into who should handle what, which should never be assumed. When the @mention list is too large for a collaboration platform update such as Slack, make use of emails!
+
+5. Set clear expectations for response time
+
+If something is needed for an upcoming release that’s bound to happen in three hours, it should be highlighted in the message to enable your intended audience to understand the time urgency required in their responses or actions.
+
+6. Respect teammates working in different time zones
+
+When working with teammates spread across vast geographical areas, consider their off-focus work hours. Unless something is time-critical and super urgent, it might suffice to mention that their response is only required when they’re back to their normal office hours.
+
+7. Encourage positive and constructive communication
+
+All forms of communication in professional teams, such as the ones you’re soon going to be leaders of, should always be respectful and empathetic. It’s always wise to proofread a message you’ve drafted to catch any instances where your emotions and/or language might be too strong for a professional audience.
+
+In principle, it’s important to understand how different collaboration platforms cater to our different communication needs and when to use each. It’s also important to know when to make a publicly facing update in one of the channels we talked about versus reaching out privately to the person whose attention you need on something.
+
+### User-facing and Technical Documentation
+
+In your near future roles in technology teams, documentation writing is going to become a staple when churning out hardware or software products.
+
+You’ve probably tried to use new software or hardware products before, right? What did you do when you couldn’t figure out how to use a particular feature? You used Google Search or consulted a physical manual that came with the product in question to help guide you through your challenge. The documentation we use in this instance is known as **user-facing documentation** and is integral when a technology team is doing hardware and software releases.
+
+Software and hardware that’s being developed also need to be documented every step of the way. This is also known as _technical documentation_ since its main purpose is to act as a reservoir of information for the technology teams.
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/1de2c56e2a3021aabfb9d8d4051001f9e3a0d5c2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T172607Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7d52c3de592516da52721aa25c7df883db7a8a542d5b7dda5e95756e77878b64)
+
+---
+
+There are several reasons why maintaining technical documentation is crucial to a team’s success. Let’s discuss.
+
+Knowledge Preservation and Sharing
+
+Documentation does serve as a repository of information that captures the collective knowledge and expertise of the team over time. It helps with making sure everyone on the team has the most up-to-date information regarding the software project in question which is great for collaboration.
+
+Onboarding and Team Expansion
+
+Documentation serves as an important resource when onboarding new team members to new roles providing them with a comprehensive understanding of the project, its components, and existing processes. Can you try to imagine what would happen if your first professional role was a technology team with no documentation?
+
+Maintaining Consistency
+
+Agile teams often work on complex projects that involve multiple iterations, sprints, or releases. Documentation ensures consistency in development practices, coding standards, and architectural decisions. It serves as a reference point for the team, ensuring that everyone follows the same guidelines and practices, even as the project evolves.
+
+Communication and Collaboration
+
+Agile teams often work with stakeholders, clients, or other teams within an organization. Documentation helps facilitate effective communication and collaboration. It provides a common reference point that can be shared with external stakeholders or non-technical team members to ensure a shared understanding of the project’s scope, progress, and technical aspects.
+
+Continuous Improvement
+
+Agile methodologies emphasize learning and continuous improvement. Documentation plays a crucial role in this process. By documenting lessons learned, feedback, and retrospective outcomes, teams can identify areas of improvement and implement changes effectively.
+
+---
+
+What other reasons can you think of why writing and maintaining good, clear, and up-to-date technical documents is important to technology teams? Do you have any tips or advice that wasn’t shared here to ensure these factors in your writing? Share your thoughts with your peers on eHub, and see what they’re sharing as well!
+
+Share on eHub
+
+# Common Documents Maintained by Agile Teams
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T172647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e50736da498a863e8b96b0df9bbd42f7f5785f3e64e3d6eca2511b7ef0b67a2c)
+
+### Product Requirement Document
+
+You may come across two types of commonly used documents that are commonly used in software development: **PRD - Product Requirements Document** and **BRD - Business Requirements Document.** While they may seem similar at first glance, they serve different purposes in the software development process.
+
+A **Product Requirements Document** is a document that outlines the product requirements for a software application. It’s typically written by the product manager or business analyst and is used to communicate the product vision and requirements to the development team. The PRD outlines the key features, functionality, and user requirements for the product. It also provides details on the user interface, performance requirements, and any other non-functional requirements.
+
+==Example:== A PRD for a mobile app might include details on the user interface design, the login process, the app’s core functionality, and any performance requirements such as load time or response time. Below, is an example you can look at. You do not need to read the document; just scan through it to get a sense of what a PRD looks like.
+
+#### **[Example Product Requirements Document (PRD)](https://www.hustlebadger.com/what-do-product-teams-do/prd-template-examples/)**
+
+### Business Requirements Document
+
+A **Business Requirements Document** is a document that outlines the business requirements for a software application. It’s typically written by a business analyst or project manager and is used to communicate the business requirements to the development team. The BRD outlines the business objectives, user needs, and overall project scope.
+
+==Example:== A BRD for an e-commerce website might include details on the target audience, the business goals for the website, the user journey from product search to purchase, and any integration requirements with third-party systems such as payment gateways or inventory management systems.
+
+The key difference between a PRD and a BRD is the focus of the document. The PRD focuses on the product requirements and features, while the BRD focuses on the business objectives and project scope. In practice, both documents are often used together to ensure that the development team has a complete understanding of both the business requirements and the product requirements. Below, is an example you can look at. You do not need to read the document; just scan through it to get a sense of what a BRD looks like.
+
+#### **[Sample Business Requirements Document (BRD)](https://www.smartsheet.com/content/business-requirement-document-templates)**
+
+  
+
+In general, **a PRD is used when developing new software products or major feature releases**, while **a BRD is used when developing systems that support the business goals of an organization.**
+
+
+# Intro to Work Planning
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175155Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=35d965d7c04ef9fd121ed382c576f24bb6e5a1bb95f8cd6eea0877659615e665)
+
+  
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/f9ea923a0f6fa5f47aa2d6a569df21c1e36060ff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175155Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4aca713cde9853728d393f5c9cba349a797aa74a2515633f5ccd962388a3d205)
+
+  
+
+#### Any activity that requires several steps can be called a project.
+
+Some projects, like building a 70-story building in the middle of Addis, require a lot of resources, time, and skilled people. Others, like building a motherboard for a personal computer, may only call for a few specific resources and 1 - 2 pairs of hands. In each case, specified actions must be carried out, sometimes by different people and in a particular order, to accomplish the primary objective.
+
+Your Phase 2 collaboration will require several steps to be complete and can be rightfully called a project. Now that you know you have Phase 2 around the corner, you will need to at least plan out your next 4 weeks to ensure you can complete all aspects of the team project collaborations! **Think about ways you can create more time for yourself in Phase 2.** What can you do and when? What can you delegate? **What do you need for your Phase 2 to be structured for success?**
+
+Embarking on any project necessitates a well-crafted plan that outlines the tasks and activities essential for achieving your project’s goals. This is where a work plan comes in handy. **A work plan is a meticulous blueprint,** mapping out the tasks, timelines, allocated resources, and responsibilities required to bring your project to fruition. It serves as a compass for project managers, enabling them to track progress, manage resources efficiently, and navigate potential obstacles.
+
+We know that you are curious to see what a simple work plan looks like. **[Here is an example of one](https://docs.google.com/spreadsheets/d/1PCceAgVMr2ryR9wjyQaZrtoxC1QSb3Uwwx_lSr-P8_k/copy)** that we created. No need to start completing it now. We will come back to creating your own work plan at the end of the module.
+
+  
+Since we are already talking about work plans, **let’s take a quick detour and explore other key Project Management considerations through a professional (workspace) lens.** Don’t worry, we’ll quickly absorb this valuable knowledge and then dash back to crafting your personalized work plan for the next few weeks.
+
+# Project Scope
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175235Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=70f298e7d1e1f774312b701b03778e2573b4d3ff4222481ce60bdb0f178ecfea)
+
+  
+In the project management process, project scoping typically comes before work planning, so let’s talk about that next.
+
+Project scope is a crucial component of project planning as it involves determining a list of specific project goals, deliverables, tasks, costs, and deadlines.
+
+- It outlines the project’s boundaries to help the project owner/team remain focused on the task at hand and procedures for how completed work will be verified and approved.
+- A project’s scope also describes the project’s purpose, what is included and isn’t, and important processes, assumptions, and limits.
+- A scope is sometimes referred to as a statement of work (SOW), or terms of reference (ToR).
+
+Take a moment to watch this video that breaks down a Project Scope Statement from a professional perspective. As you watch, check your understanding with these guiding questions:
+
+- What are the elements that need to be included in a project scope statement?
+- What does each element entail?
+
+---
+
+==To recap,== an effective project scope statement will include the following elements:
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/10/74d8c3878b8e9f27abcca7c7957d48c2c64bbca1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175235Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4eca63e33e954b9ab6f85fa13c96b5df9aa50f483224993c82ed3f9e213f46e2)# Scope Creep
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175257Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=673d641a0d141c75991eaaaf84c4bcdc8228be6d51d20528767b9f8e4566a07b)
+
+  
+Have you ever come up with a great plan, but when you were executing it, you kept adding (or removing) aspects of it and then ended up with a different plan altogether? It is almost like planning to go to the store to buy food for tomorrow, then on your way, you remember that you need to pass by a friend’s. You decide to change your original plan and pass by your friend’s but never end up making it to the store.
+
+In project management, we call this Scope Creep. Every project should start with a set of agreed-upon project requirements, but scope creep occurs when those needs are increased without permission or other safeguards. Scope creep – also known as feature creep, focus creep, creeping functionality, and kitchen-sink syndrome – can sneak up and destroy a project.
+
+In any project, there tends to be a gap between what was planned and what actually happened. The addition of new objectives, deliverables, or tasks during the life of a project is known as scope creep because it essentially grows your scope steadily until you have more on your plate than you can handle.
+
+**Take a moment to study this article that shares insight on **[Managing Scope Creep In Project Management](https://www.villanovau.com/resources/project-management/project-management-scope-creep/#.WUjZNxOGN-V)**.**
+
+Then, before we move on, watch this video from Mike Clayton. As you watch, make note of two important points:
+
+- What is scope creep, and
+- How to manage it.
+# Tools and Techniques for Project Management
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175321Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1470dd3d5dbb24d72e9b5554a8b723e2bac3ed5fcd9a18617018fc057f6b37ab)
+
+  
+As a young tech professional, having the ability to create a work plan will greatly benefit you in your participation in project teams. While there are various apps available to assist with this task, possessing the fundamental knowledge of “how” to create a work plan will prove invaluable, especially when you need to develop technical work plan solutions in the future.
+
+By gaining this knowledge and honing your work planning skills, you’ll be well-prepared to navigate project teams and contribute to the successful delivery of projects throughout your career. So, take the opportunity to absorb the insights from the video below. **[Our work plan](https://docs.google.com/spreadsheets/d/14kQfLicS7S1DxqdpdDMY_ixTvboRH7loA4s0_icDxWA/copy)** might be slightly more complex than what the video presents, but the video will still provide you with a solid foundation for creating effective work plans (Gantt Charts).
+
+As you watch, make sure you can answer:
+
+- How do you put together a simple Gantt Chart?
+- What is the recommended way to add your tasks?
+- What is the importance of color coding?
+
+#### Not all Gantt Charts look the same, but they all have similar features. This next read will highlight each feature and its importance. Take a look at **[The 9 Essential Things In Your Gantt Chart](https://drive.google.com/file/d/1pzdDohzCMTiSYf96JENdpVorP7wQax5G/view?usp=sharing)**
+
+
+# Simple Project Management Tools
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175343Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fef133b5c67e6f3ae1089991fcf7b3e024f64a1b26fd2f1a32b18ef938c4beac)
+
+  
+The world of project management is evolving as fast as the world of tech. You won’t always need to create your own work plan as there are so many apps and tools that can help you do that online.
+
+It will be up to you to decide on the best platform to use to manage and track your progress in attaining your (or your team’s) goals. There are tools and software that are specific to the type of project that needs to be accomplished. Here is our favourite list of AI work plan apps:
+
+- **[ClickUp](https://clickup.com/)** for customized task views
+- **[Jira](https://www.atlassian.com/software/jira)** for developers
+- **[Trello](https://trello.com/)** for visually managing projects
+- **[Asana](https://asana.com/)** for teams
+
+---
+
+Did you go through the tools listed above and see how they work? Which one is your favorite, or which one do you find the most useful? If you know of others like these, what are they, and which one of those are your favorite ==work planning or project management tools?== Share your thoughts with your peers on eHub, and see what they’re sharing as well!
+
+# Work Planning & Resource Allocation: Sample Problem
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/be5ab1ec6020dd2bfadc24559e2e59df5c0734b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175402Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2a589c2c4d02d6d220d6dea9b0eb1f4d4d66e1e14e7e3713775114333acb9876)
+
+Part of planning a project is to understand what resources are needed at each stage. This can be challenging at first glance. Do you think that the Egyptians who built the pyramids knew exactly how much material they needed and when?
+
+Let’s learn how to do this while looking at an example of how one can allocate resources when planning a project (work planning).
+
+Take a look at the example scenario in the Google sheet below. In it, our institution would like to open a City Hub in Cairo in the next 3 months. Study it carefully to see what resource considerations they might make.
+
+#### **[Resource Allocation Example: Student Learning Hub in Cairo](https://docs.google.com/document/d/1YGFFF-7k-x7u2tYNUhGm3cNdzM6LZxMt6tRTMv4H7Nc/copy)**
+
+---
+
+Complete the work plan for the scenario provided above. As you complete it, what are some of the most important factors that come to your mind that must be considered when building a work plan? Share your work plans and your thoughts with your peers on eHub, and see what they’re sharing as well!
+
+Share on eHub
+# Individual & Peers Activities: Work Planning
+
+-  Project will start Oct 13, 2025 3:00 AM, must end by Oct 21, 2025 3:00 AM
+
+##### Quiz questions
+
+**Great!** You've completed the quiz successfully! Keep going! (Show quiz)
+
+## Tasks
+
+##### 0. Individual Activity: Work Planning
+
+mandatory
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/f5865018ddac73e42bb695b3b3a22299f74abaa4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175434Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7a9ba15bc3ff015360a9fc35bce6502fcea6b1fd2fb6dd237e59508aad324d35)
+
+Now that you have a solid grasp of work planning and its thought processes, it’s time to use those skills for your own benefit. To ensure your success over the next weeks, you will take all the skills that you have just learned and use them to complete your work plan and resource list. See, we kept our promise that we would come back to this activity. Let’s get started.
+
+---
+
+## Context
+
+Take a moment to think about everything that you need to accomplish this week, in Week 5 and Month 2.
+
+==This week you need to:==
+
+- Catch up on all missing assessments for Weeks 2 and 3
+- Complete your Week 3 Milestone, if you haven’t already
+- Submit you Week 4 Milestone and Test
+
+==For Week 5 you need to:==
+
+- Complete the Hummingbird Challenge
+- Research into a personality of choice
+- Complete the Week 5 Milestone assignment
+
+==For Month 2 you need to:==
+
+- Get connected with your teammates
+- Decide what role you want to play as part of your team
+- Learn the content in Savanna
+- Complete all individual activities presented in Savanna
+- Participate and complete all team activities presented in Savanna including developing a set of wireframes or a 3D prototype.
+- Complete your Weekly Tests 6 - 9
+- Complete both Milestones 6 - 9
+- Attend to your personal demands like work projects, errands, events, etc.)
+
+---
+
+## Activity
+
+For this activity, you are required to create a work plan for the next 5 to 6 weeks (or for as many weeks as you feel inspired to). The idea is to practice using a work plan while planning out your next few weeks, ensuring success. The second month of the program will be demanding, and we understand that you may have personal commitments to attend to as well. This is an opportune time to reflect on the most important tasks that you need to complete in the second month, whether related to the program or not and plan accordingly to tackle them.
+
+You can use a Google Sheets work plan or a work plan app of your choice, however, it must have all the core elements. The outline of your work plan must have the following content:
+
+- Your objective(s)
+- Description/bucket
+- Tasks/ action items/ key deliverables,
+- Timelines (start and end date)
+- Responsibility/owner
+- Whatever else you think you need to function effectively.
+
+As a refresher, here is an example of our **[work plan](https://docs.google.com/spreadsheets/d/14kQfLicS7S1DxqdpdDMY_ixTvboRH7loA4s0_icDxWA/copy)**. Feel free to make it your own and tweak it up.
+
+---
+
+### Part A
+
+ ==1 -== Start by defining an objective that aligns with your personal goals for the next 5 to 6 weeks. An example is “to complete and participate in all Foundations Month 2 activities before the respective deadlines”. Remember your objective must be SMART: Specific, Measurable, Achievable, Relevant, Time-based.
+
+Now, using your own work plan do the following;
+
+==2 -== List all deliverables/tasks/activities that you need to complete in the next five to six weeks.
+
+==3 -== Estimate the task duration; start and end times for each task.
+
+==4 -== Order your tasks in the chronological order they must be completed.
+
+==5 -== Create your timeline (if it does not automatically get created when you enter the start and end dates).
+
+==6 -== Add the status of each task.
+
+==7 -== If you have tasks that you need someone else to do, and those tasks are crucial for your success in the upcoming weeks, make sure to add those tasks to your work plan list along with the name of the person who will be responsible for completing them.
+
+---
+
+### Part B
+
+Now it’s time to look at your resources. Make a list of what you need and how you might allocate resources to achieve your objective.
+
+1. What Equipment will you need (e.g. laptops)
+2. What Material/other resources will you need (e.g. time, a quiet room)
+3. Who’s help do you need (e.g. a peer, your squad)
+
+And that’s it. You are done with planning ahead.
+
+Once your Work Plan is complete, it is time to take a step further and share your Work Plan with 2 peers so you have them support you and hold you accountable. Let’s do this in the next peer activity.
+
+  
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/d68070e51771af937ab8ca99af6c868aa35968c2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175434Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=db3a66c7d628acc0f0afd7c46b3c3db143185e5311c087987dac9b75f01eac48)
+
+##### 1. Peer Activity: Share Your Work Plan
+
+mandatory
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/f5865018ddac73e42bb695b3b3a22299f74abaa4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175434Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7a9ba15bc3ff015360a9fc35bce6502fcea6b1fd2fb6dd237e59508aad324d35)
+
+For your second peer activity this week, please do the following exercise with 2 peers. It can be online or at your nearest City Hub. Each peer should have at least 20 minutes to share their work plans and receive peer feedback.
+
+ ==1 -== Find 2 peers to work with.
+
+==2 -== Start by writing down your 2 peers’ first and last names, so you can remember who they are.
+
+==3 -== Share the overall objective of your work plan. A good end goal can be: _To participate in all month 2 project team activities, to complete my degree program with Honors, or to submit all my milestones, tests and peer evaluations on time._
+
+==4 -== Share your work plan with both peers so they can review it.
+
+==5 -== Take 5-10 minutes to explain and walk your peers through your work plan, explaining:
+
+- Your work plan categories and task descriptions
+- Your rationale behind each task’s timeline and responsible person
+- The impact of a specific time not being met
+- Protocols or parameters that will help you meet each timeline.
+
+==6 -== Outline what support you might need from your peers.
+
+==7 -== Ask for your peers’ feedback as to whether:
+
+- Your task descriptions are clear and specific
+- The timelines for each task are feasible
+- There is a task/action item that you might have overlooked.
+- There are additional steps that you can take to improve your work plan.
+
+==8 -== When you are done, take time to review your peers’ work plans, participate in each of their walkthroughs and explanations, and share your feedback.
+
+When sharing feedback remember to:
+
+- Highlight positive aspects (“GLOWS”), then highlight improvement points (“GROWS”)
+- Share practical steps your peer could take to improve their work plan.
+
+### Great job! You are now done with this activity and are almost at the end.
+
+Go through the following questions, and share you responses in your **[squad on eHub.](https://ehub.alxafrica.com/)**  
+
+- Who are the 2 peers that you did your Peer Activity with? Write their full names below.
+- What were some work plan GLOWS (positive attributes) that your peer shared with you?
+- What were some work plan GROWS (areas of growth) that your peers shared with you?
+
+# Week 4 Milestone Readiness
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/f5865018ddac73e42bb695b3b3a22299f74abaa4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T175537Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b7d32364e750237e71935bcb655364e8e9c13e161bd312494f7a0b5a222604af)
+
+You’ve made it!  
+That means it’s time for your weekly milestone.  
+
+---
+
+|   |   |
+|---|---|
+|![deadline icon](https://img.icons8.com/?size=100&id=din51tUld11B&format=png&color=000000)|The **deadline to submit** this milestone is the **Monday of Week 5 by 11:59 PM GMT**.|
+
+The Week 4 Milestone **builds onto all the work you did** as part of your Week 2 and 3 Milestones over the last couple of weeks. You **will refer back** to your:
+
+1. Mission statement
+2. Chosen GCGO
+3. Identified problem
+4. “Why” for selecting it
+5. Questions you asked
+6. Completed web research
+
+That is why it is of the **utmost importance** that you make use of your Week 2 and 3 Milestone Worksheets and your notes for the activities you completed in that week.
+
+|   |   |
+|---|---|
+|![high priority icon](https://img.icons8.com/?size=100&id=Vtv1Seexiz5k&format=png&color=000000)|**Remember!**  <br>Although you _do have the option_ to choose a different mission statement, GCGO, and/or problem than the ones you chose to use in Week 3, we _strongly advise against_ this, as you would then need to re-do all the Week 2 and 3 Milestone activities before coming back to your Week 4 Milestone. That means doing all the problem scoping, questioning, and research work again!<br><br>---<br><br>If you _do_ decide to use a different GCGO and/or problem for your Week 4 Milestone, you will _need to redo_ all the Week 3 problem scoping, questioning, and research work. BUT you dot NOT need to resubmit your Week 3 Milestone or Test!|
+
+Considering the **time limitation** and **amount of work** involved, we _strongly recommend_ that you **work with the same mission statement** as your Week 2 Milestone, and **the same GCGO and problem** that you used for your Week 3 Milestone as your basis.
+
+---
+
+### Preparing to Complete Milestone 4
+
+In preparation for your Week 4 Milestone you will **use the ==skills that you acquired== in Weeks 2 and 3** to prepare a **Google Slides presentation**.
+
+- You will begin by making a copy of this **[Week 4 Milestone Worksheet](https://docs.google.com/document/d/1xwnVa2CGnI6M_ADd8Nx2A3WB8hNI2AxO63PGoTT6qgo/copy)**
+- You will then use this completed worksheet to create your final presentation.
+
+Your presentation must be **a showcase** of the following:
+
+1. Your personal mission statement (from your Week 2 Milestone).
+2. Your chosen GCGO, and an explanation as to why it matters (from your Week 3 Milestone).
+3. A clearly defined problem related to your chosen GCGO (from your Week 3 Milestone).
+4. Your research questions and hypotheses (from your Week 3 Milestone).
+5. Its impact on a specific target audience (#UserPersonas).
+6. Components of your problem-solving framework.
+7. A solution and action steps.
+8. Source references and citations throughout.
+
+This presentation will contain **information _based on_ your work and relevant notes** from both the Week 2 and 3 Milestone Worksheets you have already completed, and the activities you will be completing this week. If you’ve gone through the content, you will already have been introduced to the details of how to go about doing the presentation.
+
+Please **use the output of your work** in these research activities **for your Week 4 Milestone assignment**. For instructions on how to submit your assignment, please **go the next page**.
+
+---
+
+|   |   |
+|---|---|
+|![warning to stop](https://img.icons8.com/?size=100&id=TCCRrsz6KyHn&format=png&color=000000)|**VERY IMPORTANT!**  <br>Your completed slide deck is **NOT what you will be submitting** for your Week 4 Milestone!  <br>You will **use your slide deck’s content** as **_basis_** to fill in the **[Week 4 Milestone Worksheet](https://docs.google.com/document/d/1xwnVa2CGnI6M_ADd8Nx2A3WB8hNI2AxO63PGoTT6qgo/copy)**!  <br>**_ONLY_** once you have **completed** the Week 4 Milestone Worksheet _and_ **converted** it into a PDF are you ready to submit your assignment.  <br>**The PDF version of your Week 4 Milestone Worksheet is what you must submit!**|
