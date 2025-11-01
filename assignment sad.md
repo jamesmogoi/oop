@@ -1,4 +1,4 @@
-## **Question 1: Discuss how to investigate and understand stakeholder requirements in system analysis and design. Provide practical examples of how to understand stakeholder needs.**
+0## **Question 1: Discuss how to investigate and understand stakeholder requirements in system analysis and design. Provide practical examples of how to understand stakeholder needs.**
 
 ### **Investigating and Understanding Stakeholder Requirements:**
 
@@ -199,7 +199,7 @@ Nonfunctional Requirements:
 **1. Foundation of System Success**
 
 - Requirements determination is "single-most critical aspect of entire SDLC"
-- Incorrect/incomplete requirements = primary cause of project failure
+- Incorrect/incomplete requirements = primary cause of project failu-re
 - 2014 survey: "Clear statements of requirements" ranked as top success factor
 - Changes become exponentially more expensive in later phases
 
